@@ -1,6 +1,5 @@
-# Issues
-
-**TODO: Add description**
+# u-got-issues
+> a tool that downloads and lists the n oldest issues from a GitHub project
 
 ## Installation
 
